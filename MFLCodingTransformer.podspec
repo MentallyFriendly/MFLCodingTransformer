@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.social_media_url = 'http://twitter.com/kylefuller'
   s.screenshots = "https://raw.githubusercontent.com/MentallyFriendly/MFLCodingTransformer/#{s.version}/MFLCodingTransformer.png"
 
-  s.source = { :git => 'https://github.com/MentallyFriendly/MFLCodingTransformer', :tag => s.version }
+  s.source = { :git => 'https://github.com/MentallyFriendly/MFLCodingTransformer.git', :tag => s.version }
   s.source_files = 'MFLCodingTransformer.{h,m}'
   s.requires_arc = true
 end
