@@ -4,7 +4,7 @@ MFLCodingTransformer
 A simple NSValueTransformer which can serialize any NSCoding compatible objects.
 Very useful for putting arbitary data inside Core Data models, such as NSURL.
 
-![MFLCodingTransformer.png](Using MFLCodingTransformer with Core Data)
+![Using MFLCodingTransformer with Core Data](MFLCodingTransformer.png)
 
 ```objective-c
 NSValueTransformer *transformer = [[MFLCodingTransformer alloc] init];
