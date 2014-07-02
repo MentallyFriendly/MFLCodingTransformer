@@ -24,6 +24,11 @@ Here's an example podfile that installs MFLCodingTransformer.
 pod 'MFLCodingTransformer'
 ```
 
+## Jobs
+
+If you like what we're doing, be sure to check out our
+[jobs page](http://mentallyfriendly.com/careers). We're hiring!
+
 ## License
 
 MFLCodingTransformer is released under the BSD license. See [LICENSE](LICENSE).
